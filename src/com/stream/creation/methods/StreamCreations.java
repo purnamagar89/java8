@@ -1,4 +1,4 @@
-package stream.creation.methods;
+package com.stream.creation.methods;
 
 import java.util.ArrayList;
 import java.util.Arrays;

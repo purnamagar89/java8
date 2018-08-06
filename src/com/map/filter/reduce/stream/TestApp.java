@@ -1,4 +1,4 @@
-package map.filter.reduce.stream;
+package com.map.filter.reduce.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
