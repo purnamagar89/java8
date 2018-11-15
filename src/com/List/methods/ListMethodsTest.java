@@ -21,6 +21,7 @@ public class ListMethodsTest {
 		students.sort(Comparator.comparing(Student::getAge));
 		students.forEach(System.out::println);
 		System.out.println("lets test teamcity build");
+		System.out.println("lets test teamcity build");
 	}
 
 }
