@@ -20,6 +20,7 @@ public class ListMethodsTest {
 				student.getLastName().toUpperCase()));
 		students.sort(Comparator.comparing(Student::getAge));
 		students.forEach(System.out::println);
+		System.out.println("lets test teamcity build");
 	}
 
 }
