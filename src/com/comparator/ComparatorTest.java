@@ -23,6 +23,7 @@ public class ComparatorTest {
 		sList.sort(cmp);
 
 		System.out.println(sList);
+		System.out.println(sList);
 
 	}
 
