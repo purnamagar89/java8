@@ -21,6 +21,7 @@ public class ComparatorTest {
 									.thenComparing(Student::getLastName);
 		
 		sList.sort(cmp);
+		System.out.println("test change");
 
 		System.out.println(sList);
 		System.out.println(sList);
